@@ -1,0 +1,352 @@
+VALIDITY TEST FOR ORTOGRAPIYANG PAMBANSA VERSION
+================================================
+TEST WORDS (173 word/s)
+#1 Word: ako             | Expected: a|ko                
+#2 Word: edad            | Expected: e|dad               
+#3 Word: isa             | Expected: i|sa                
+#4 Word: noo             | Expected: no|o                
+#5 Word: oso             | Expected: o|so                
+#6 Word: ubo             | Expected: u|bo                
+#7 Word: baka            | Expected: ba|ka               
+#8 Word: dugo            | Expected: du|go               
+#9 Word: relo            | Expected: re|lo               
+#10 Word: sila            | Expected: si|la               
+#11 Word: akda            | Expected: ak|da               
+#12 Word: isda            | Expected: is|da               
+#13 Word: ugnay           | Expected: ug|nay              
+#14 Word: uod             | Expected: u|od                
+#15 Word: aklat           | Expected: ak|lat              
+#16 Word: bundok          | Expected: bun|dok             
+#17 Word: dahon           | Expected: da|hon              
+#18 Word: isip            | Expected: i|sip               
+#19 Word: bloke           | Expected: blo|ke              
+#20 Word: braso           | Expected: bra|so              
+#21 Word: droga           | Expected: dro|ga              
+#22 Word: gripo           | Expected: gri|po              
+#23 Word: plato           | Expected: pla|to              
+#24 Word: abstrak         | Expected: abs|trak            
+#25 Word: ekstra          | Expected: eks|tra             
+#26 Word: disk            | Expected: disk                
+#27 Word: fern            | Expected: fern                
+#28 Word: iskeyt          | Expected: is|keyt             
+#29 Word: isport          | Expected: is|port             
+#30 Word: keyk            | Expected: keyk                
+#31 Word: kontest         | Expected: kon|test            
+#32 Word: nars            | Expected: nars                
+#33 Word: test            | Expected: test                
+#34 Word: blangko         | Expected: blang|ko            
+#35 Word: dyakpat         | Expected: dyak|pat            
+#36 Word: brilyo          | Expected: bril|yo             
+#37 Word: dyip            | Expected: dyip                
+#38 Word: ekspres         | Expected: eks|pres            
+#39 Word: ispred          | Expected: is|pred             
+#40 Word: isprey          | Expected: is|prey             
+#41 Word: kyut            | Expected: kyut                
+#42 Word: plastik         | Expected: plas|tik            
+#43 Word: playwud         | Expected: play|wud            
+#44 Word: prinsesa        | Expected: prin|se|sa          
+#45 Word: swak            | Expected: swak                
+#46 Word: trak            | Expected: trak                
+#47 Word: tren            | Expected: tren                
+#48 Word: tsek            | Expected: tsek                
+#49 Word: trangkaso       | Expected: trang|ka|so         
+#50 Word: tsamba          | Expected: tsam|ba             
+#51 Word: tsismis         | Expected: tsis|mis            
+#52 Word: bleyd           | Expected: bleyd               
+#53 Word: breyk           | Expected: breyk               
+#54 Word: breyslet        | Expected: breys|let           
+#55 Word: treynta         | Expected: treyn|ta            
+#56 Word: tsart           | Expected: tsart               
+#57 Word: shorts          | Expected: shorts              
+#58 Word: baul            | Expected: ba|ul               
+#59 Word: ulam            | Expected: u|lam               
+#60 Word: almusal         | Expected: al|mu|sal           
+#61 Word: aagaw           | Expected: a|a|gaw             
+#62 Word: uulan           | Expected: u|u|lan             
+#63 Word: alaala          | Expected: a|la|a|la           
+#64 Word: asotea          | Expected: a|so|te|a           
+#65 Word: baunan          | Expected: ba|u|nan            
+#66 Word: loob            | Expected: lo|ob               
+#67 Word: tuon            | Expected: tu|on               
+#68 Word: babae           | Expected: ba|ba|e             
+#69 Word: totoo           | Expected: to|to|o             
+#70 Word: buo             | Expected: bu|o                
+#71 Word: ambon           | Expected: am|bon              
+#72 Word: pinggan         | Expected: ping|gan            
+#73 Word: madre           | Expected: mad|re              
+#74 Word: tigre           | Expected: tig|re              
+#75 Word: serbisyo        | Expected: ser|bis|yo          
+#76 Word: iskolar         | Expected: is|ko|lar           
+#77 Word: istorya         | Expected: is|tor|ya           
+#78 Word: transportasyon  | Expected: trans|por|tas|yon   
+#79 Word: inspirasyon     | Expected: ins|pi|ras|yon      
+#80 Word: ekskursiyon     | Expected: eks|kur|si|yon      
+#81 Word: eksperimento    | Expected: eks|pe|ri|men|to    
+#82 Word: sumbrero        | Expected: sum|bre|ro          
+#83 Word: miyembro        | Expected: mi|yem|bro          
+#84 Word: balandra        | Expected: ba|lan|dra          
+#85 Word: timpla          | Expected: tim|pla             
+#86 Word: simple          | Expected: sim|ple             
+#87 Word: ehemplo         | Expected: e|hem|plo           
+#88 Word: kompleto        | Expected: kom|ple|to          
+#89 Word: kontrata        | Expected: kon|tra|ta          
+#90 Word: entrada         | Expected: en|tra|da           
+#91 Word: entrega         | Expected: en|tre|ga           
+#92 Word: intramuros      | Expected: in|tra|mu|ros       
+#93 Word: eksklusibo      | Expected: eks|klu|si|bo       
+#94 Word: eksplorasyon    | Expected: eks|plo|ras|yon     
+#95 Word: ekstremidad     | Expected: eks|tre|mi|dad      
+#96 Word: transkripsiyon  | Expected: trans|krip|si|yon   
+#97 Word: problema        | Expected: prob|le|ma          
+#98 Word: kable           | Expected: kab|le              
+#99 Word: terible         | Expected: te|rib|le           
+#100 Word: responsable     | Expected: res|pon|sab|le      
+#101 Word: kobra           | Expected: kob|ra              
+#102 Word: sobra           | Expected: sob|ra              
+#103 Word: madrasa         | Expected: mad|ra|sa           
+#104 Word: kompadre        | Expected: kom|pad|re          
+#105 Word: programa        | Expected: prog|ra|ma          
+#106 Word: telegrama       | Expected: te|leg|ra|ma        
+#107 Word: sagrado         | Expected: sag|ra|do           
+#108 Word: krusigrama      | Expected: kru|sig|ra|ma       
+#109 Word: burukrasya      | Expected: bu|ruk|ras|ya       
+#110 Word: demokrasya      | Expected: de|mok|ras|ya       
+#111 Word: eroplano        | Expected: e|rop|la|no         
+#112 Word: multiplikasyon  | Expected: mul|tip|li|kas|yon  
+#113 Word: aprobado        | Expected: ap|ro|ba|do         
+#114 Word: kapritso        | Expected: kap|rit|so          
+#115 Word: atraso          | Expected: at|ra|so            
+#116 Word: teatro          | Expected: te|at|ro            
+#117 Word: salitre         | Expected: sa|lit|re           
+#118 Word: buwitre         | Expected: bu|wit|re           
+#119 Word: kotse           | Expected: kot|se              
+#120 Word: litson          | Expected: lit|son             
+#121 Word: litsugas        | Expected: lit|su|gas          
+#122 Word: tabla           | Expected: tab|la              
+#123 Word: hibla           | Expected: hib|la              
+#124 Word: Abril           | Expected: Ab|ril              
+#125 Word: abrelata        | Expected: ab|re|la|ta         
+#126 Word: libre           | Expected: lib|re              
+#127 Word: libro           | Expected: lib|ro              
+#128 Word: madrasta        | Expected: mad|ras|ta          
+#129 Word: padre           | Expected: pad|re              
+#130 Word: orkidya         | Expected: or|kid|ya           
+#131 Word: agrabyado       | Expected: ag|rab|ya|do        
+#132 Word: agrikultura     | Expected: ag|ri|kul|tu|ra     
+#133 Word: integridad      | Expected: in|teg|ri|dad       
+#134 Word: sekreto         | Expected: sek|re|to           
+#135 Word: sekretarya      | Expected: sek|re|tar|ya       
+#136 Word: kopra           | Expected: kop|ra              
+#137 Word: letra           | Expected: let|ra              
+#138 Word: litrato         | Expected: lit|ra|to           
+#139 Word: litro           | Expected: lit|ro              
+#140 Word: itsa            | Expected: it|sa               
+#141 Word: otso            | Expected: ot|so               
+#142 Word: otsenta         | Expected: ot|sen|ta           
+#143 Word: atsara          | Expected: at|sa|ra            
+#144 Word: atsuwete        | Expected: at|su|we|te         
+#145 Word: kutsara         | Expected: kut|sa|ra           
+#146 Word: kutsero         | Expected: kut|se|ro           
+#147 Word: kutsilyo        | Expected: kut|sil|yo          
+#148 Word: kutsinta        | Expected: kut|sin|ta          
+#149 Word: kutson          | Expected: kut|son             
+#150 Word: titser          | Expected: tit|ser             
+#151 Word: doktrina        | Expected: dokt|ri|na          
+#152 Word: elektrikal      | Expected: e|lekt|ri|kal       
+#153 Word: martsa          | Expected: mart|sa             
+#154 Word: kongkreto       | Expected: kongk|re|to         
+#155 Word: iskrin          | Expected: isk|rin             
+#156 Word: eskrima         | Expected: esk|ri|ma           
+#157 Word: estranghero     | Expected: est|rang|he|ro      
+#158 Word: estratehiya     | Expected: est|ra|te|hi|ya     
+#159 Word: istroberi       | Expected: ist|ro|be|ri        
+#160 Word: istrikto        | Expected: ist|rik|to          
+#161 Word: distrito        | Expected: dist|ri|to          
+#162 Word: instrumento     | Expected: inst|ru|men|to      
+#163 Word: orkestra        | Expected: or|kest|ra          
+#164 Word: sastre          | Expected: sast|re             
+#165 Word: ministro        | Expected: mi|nist|ro          
+#166 Word: rehistro        | Expected: re|hist|ro          
+#167 Word: imprenta        | Expected: imp|ren|ta          
+#168 Word: impresyon       | Expected: imp|res|yon         
+#169 Word: impraestruktura | Expected: imp|ra|est|ruk|tu|ra
+#170 Word: ingrato         | Expected: ing|ra|to           
+#171 Word: ingreso         | Expected: ing|re|so           
+#172 Word: kongreso        | Expected: kong|re|so          
+#173 Word: kaldero         | Expected: kal|de|ro           
+
+
+RESULTS (100.0 %, 173 right, 0 wrong)
+#1 Word: ako             | Expected: a|ko                 | Prediction: a|ko                 | CORRECT
+#2 Word: edad            | Expected: e|dad                | Prediction: e|dad                | CORRECT
+#3 Word: isa             | Expected: i|sa                 | Prediction: i|sa                 | CORRECT
+#4 Word: noo             | Expected: no|o                 | Prediction: no|o                 | CORRECT
+#5 Word: oso             | Expected: o|so                 | Prediction: o|so                 | CORRECT
+#6 Word: ubo             | Expected: u|bo                 | Prediction: u|bo                 | CORRECT
+#7 Word: baka            | Expected: ba|ka                | Prediction: ba|ka                | CORRECT
+#8 Word: dugo            | Expected: du|go                | Prediction: du|go                | CORRECT
+#9 Word: relo            | Expected: re|lo                | Prediction: re|lo                | CORRECT
+#10 Word: sila            | Expected: si|la                | Prediction: si|la                | CORRECT
+#11 Word: akda            | Expected: ak|da                | Prediction: ak|da                | CORRECT
+#12 Word: isda            | Expected: is|da                | Prediction: is|da                | CORRECT
+#13 Word: ugnay           | Expected: ug|nay               | Prediction: ug|nay               | CORRECT
+#14 Word: uod             | Expected: u|od                 | Prediction: u|od                 | CORRECT
+#15 Word: aklat           | Expected: ak|lat               | Prediction: ak|lat               | CORRECT
+#16 Word: bundok          | Expected: bun|dok              | Prediction: bun|dok              | CORRECT
+#17 Word: dahon           | Expected: da|hon               | Prediction: da|hon               | CORRECT
+#18 Word: isip            | Expected: i|sip                | Prediction: i|sip                | CORRECT
+#19 Word: bloke           | Expected: blo|ke               | Prediction: blo|ke               | CORRECT
+#20 Word: braso           | Expected: bra|so               | Prediction: bra|so               | CORRECT
+#21 Word: droga           | Expected: dro|ga               | Prediction: dro|ga               | CORRECT
+#22 Word: gripo           | Expected: gri|po               | Prediction: gri|po               | CORRECT
+#23 Word: plato           | Expected: pla|to               | Prediction: pla|to               | CORRECT
+#24 Word: abstrak         | Expected: abs|trak             | Prediction: abs|trak             | CORRECT
+#25 Word: ekstra          | Expected: eks|tra              | Prediction: eks|tra              | CORRECT
+#26 Word: disk            | Expected: disk                 | Prediction: disk                 | CORRECT
+#27 Word: fern            | Expected: fern                 | Prediction: fern                 | CORRECT
+#28 Word: iskeyt          | Expected: is|keyt              | Prediction: is|keyt              | CORRECT
+#29 Word: isport          | Expected: is|port              | Prediction: is|port              | CORRECT
+#30 Word: keyk            | Expected: keyk                 | Prediction: keyk                 | CORRECT
+#31 Word: kontest         | Expected: kon|test             | Prediction: kon|test             | CORRECT
+#32 Word: nars            | Expected: nars                 | Prediction: nars                 | CORRECT
+#33 Word: test            | Expected: test                 | Prediction: test                 | CORRECT
+#34 Word: blangko         | Expected: blang|ko             | Prediction: blang|ko             | CORRECT
+#35 Word: dyakpat         | Expected: dyak|pat             | Prediction: dyak|pat             | CORRECT
+#36 Word: brilyo          | Expected: bril|yo              | Prediction: bril|yo              | CORRECT
+#37 Word: dyip            | Expected: dyip                 | Prediction: dyip                 | CORRECT
+#38 Word: ekspres         | Expected: eks|pres             | Prediction: eks|pres             | CORRECT
+#39 Word: ispred          | Expected: is|pred              | Prediction: is|pred              | CORRECT
+#40 Word: isprey          | Expected: is|prey              | Prediction: is|prey              | CORRECT
+#41 Word: kyut            | Expected: kyut                 | Prediction: kyut                 | CORRECT
+#42 Word: plastik         | Expected: plas|tik             | Prediction: plas|tik             | CORRECT
+#43 Word: playwud         | Expected: play|wud             | Prediction: play|wud             | CORRECT
+#44 Word: prinsesa        | Expected: prin|se|sa           | Prediction: prin|se|sa           | CORRECT
+#45 Word: swak            | Expected: swak                 | Prediction: swak                 | CORRECT
+#46 Word: trak            | Expected: trak                 | Prediction: trak                 | CORRECT
+#47 Word: tren            | Expected: tren                 | Prediction: tren                 | CORRECT
+#48 Word: tsek            | Expected: tsek                 | Prediction: tsek                 | CORRECT
+#49 Word: trangkaso       | Expected: trang|ka|so          | Prediction: trang|ka|so          | CORRECT
+#50 Word: tsamba          | Expected: tsam|ba              | Prediction: tsam|ba              | CORRECT
+#51 Word: tsismis         | Expected: tsis|mis             | Prediction: tsis|mis             | CORRECT
+#52 Word: bleyd           | Expected: bleyd                | Prediction: bleyd                | CORRECT
+#53 Word: breyk           | Expected: breyk                | Prediction: breyk                | CORRECT
+#54 Word: breyslet        | Expected: breys|let            | Prediction: breys|let            | CORRECT
+#55 Word: treynta         | Expected: treyn|ta             | Prediction: treyn|ta             | CORRECT
+#56 Word: tsart           | Expected: tsart                | Prediction: tsart                | CORRECT
+#57 Word: shorts          | Expected: shorts               | Prediction: shorts               | CORRECT
+#58 Word: baul            | Expected: ba|ul                | Prediction: ba|ul                | CORRECT
+#59 Word: ulam            | Expected: u|lam                | Prediction: u|lam                | CORRECT
+#60 Word: almusal         | Expected: al|mu|sal            | Prediction: al|mu|sal            | CORRECT
+#61 Word: aagaw           | Expected: a|a|gaw              | Prediction: a|a|gaw              | CORRECT
+#62 Word: uulan           | Expected: u|u|lan              | Prediction: u|u|lan              | CORRECT
+#63 Word: alaala          | Expected: a|la|a|la            | Prediction: a|la|a|la            | CORRECT
+#64 Word: asotea          | Expected: a|so|te|a            | Prediction: a|so|te|a            | CORRECT
+#65 Word: baunan          | Expected: ba|u|nan             | Prediction: ba|u|nan             | CORRECT
+#66 Word: loob            | Expected: lo|ob                | Prediction: lo|ob                | CORRECT
+#67 Word: tuon            | Expected: tu|on                | Prediction: tu|on                | CORRECT
+#68 Word: babae           | Expected: ba|ba|e              | Prediction: ba|ba|e              | CORRECT
+#69 Word: totoo           | Expected: to|to|o              | Prediction: to|to|o              | CORRECT
+#70 Word: buo             | Expected: bu|o                 | Prediction: bu|o                 | CORRECT
+#71 Word: ambon           | Expected: am|bon               | Prediction: am|bon               | CORRECT
+#72 Word: pinggan         | Expected: ping|gan             | Prediction: ping|gan             | CORRECT
+#73 Word: madre           | Expected: mad|re               | Prediction: mad|re               | CORRECT
+#74 Word: tigre           | Expected: tig|re               | Prediction: tig|re               | CORRECT
+#75 Word: serbisyo        | Expected: ser|bis|yo           | Prediction: ser|bis|yo           | CORRECT
+#76 Word: iskolar         | Expected: is|ko|lar            | Prediction: is|ko|lar            | CORRECT
+#77 Word: istorya         | Expected: is|tor|ya            | Prediction: is|tor|ya            | CORRECT
+#78 Word: transportasyon  | Expected: trans|por|tas|yon    | Prediction: trans|por|tas|yon    | CORRECT
+#79 Word: inspirasyon     | Expected: ins|pi|ras|yon       | Prediction: ins|pi|ras|yon       | CORRECT
+#80 Word: ekskursiyon     | Expected: eks|kur|si|yon       | Prediction: eks|kur|si|yon       | CORRECT
+#81 Word: eksperimento    | Expected: eks|pe|ri|men|to     | Prediction: eks|pe|ri|men|to     | CORRECT
+#82 Word: sumbrero        | Expected: sum|bre|ro           | Prediction: sum|bre|ro           | CORRECT
+#83 Word: miyembro        | Expected: mi|yem|bro           | Prediction: mi|yem|bro           | CORRECT
+#84 Word: balandra        | Expected: ba|lan|dra           | Prediction: ba|lan|dra           | CORRECT
+#85 Word: timpla          | Expected: tim|pla              | Prediction: tim|pla              | CORRECT
+#86 Word: simple          | Expected: sim|ple              | Prediction: sim|ple              | CORRECT
+#87 Word: ehemplo         | Expected: e|hem|plo            | Prediction: e|hem|plo            | CORRECT
+#88 Word: kompleto        | Expected: kom|ple|to           | Prediction: kom|ple|to           | CORRECT
+#89 Word: kontrata        | Expected: kon|tra|ta           | Prediction: kon|tra|ta           | CORRECT
+#90 Word: entrada         | Expected: en|tra|da            | Prediction: en|tra|da            | CORRECT
+#91 Word: entrega         | Expected: en|tre|ga            | Prediction: en|tre|ga            | CORRECT
+#92 Word: intramuros      | Expected: in|tra|mu|ros        | Prediction: in|tra|mu|ros        | CORRECT
+#93 Word: eksklusibo      | Expected: eks|klu|si|bo        | Prediction: eks|klu|si|bo        | CORRECT
+#94 Word: eksplorasyon    | Expected: eks|plo|ras|yon      | Prediction: eks|plo|ras|yon      | CORRECT
+#95 Word: ekstremidad     | Expected: eks|tre|mi|dad       | Prediction: eks|tre|mi|dad       | CORRECT
+#96 Word: transkripsiyon  | Expected: trans|krip|si|yon    | Prediction: trans|krip|si|yon    | CORRECT
+#97 Word: problema        | Expected: prob|le|ma           | Prediction: prob|le|ma           | CORRECT
+#98 Word: kable           | Expected: kab|le               | Prediction: kab|le               | CORRECT
+#99 Word: terible         | Expected: te|rib|le            | Prediction: te|rib|le            | CORRECT
+#100 Word: responsable     | Expected: res|pon|sab|le       | Prediction: res|pon|sab|le       | CORRECT
+#101 Word: kobra           | Expected: kob|ra               | Prediction: kob|ra               | CORRECT
+#102 Word: sobra           | Expected: sob|ra               | Prediction: sob|ra               | CORRECT
+#103 Word: madrasa         | Expected: mad|ra|sa            | Prediction: mad|ra|sa            | CORRECT
+#104 Word: kompadre        | Expected: kom|pad|re           | Prediction: kom|pad|re           | CORRECT
+#105 Word: programa        | Expected: prog|ra|ma           | Prediction: prog|ra|ma           | CORRECT
+#106 Word: telegrama       | Expected: te|leg|ra|ma         | Prediction: te|leg|ra|ma         | CORRECT
+#107 Word: sagrado         | Expected: sag|ra|do            | Prediction: sag|ra|do            | CORRECT
+#108 Word: krusigrama      | Expected: kru|sig|ra|ma        | Prediction: kru|sig|ra|ma        | CORRECT
+#109 Word: burukrasya      | Expected: bu|ruk|ras|ya        | Prediction: bu|ruk|ras|ya        | CORRECT
+#110 Word: demokrasya      | Expected: de|mok|ras|ya        | Prediction: de|mok|ras|ya        | CORRECT
+#111 Word: eroplano        | Expected: e|rop|la|no          | Prediction: e|rop|la|no          | CORRECT
+#112 Word: multiplikasyon  | Expected: mul|tip|li|kas|yon   | Prediction: mul|tip|li|kas|yon   | CORRECT
+#113 Word: aprobado        | Expected: ap|ro|ba|do          | Prediction: ap|ro|ba|do          | CORRECT
+#114 Word: kapritso        | Expected: kap|rit|so           | Prediction: kap|rit|so           | CORRECT
+#115 Word: atraso          | Expected: at|ra|so             | Prediction: at|ra|so             | CORRECT
+#116 Word: teatro          | Expected: te|at|ro             | Prediction: te|at|ro             | CORRECT
+#117 Word: salitre         | Expected: sa|lit|re            | Prediction: sa|lit|re            | CORRECT
+#118 Word: buwitre         | Expected: bu|wit|re            | Prediction: bu|wit|re            | CORRECT
+#119 Word: kotse           | Expected: kot|se               | Prediction: kot|se               | CORRECT
+#120 Word: litson          | Expected: lit|son              | Prediction: lit|son              | CORRECT
+#121 Word: litsugas        | Expected: lit|su|gas           | Prediction: lit|su|gas           | CORRECT
+#122 Word: tabla           | Expected: tab|la               | Prediction: tab|la               | CORRECT
+#123 Word: hibla           | Expected: hib|la               | Prediction: hib|la               | CORRECT
+#124 Word: Abril           | Expected: Ab|ril               | Prediction: Ab|ril               | CORRECT
+#125 Word: abrelata        | Expected: ab|re|la|ta          | Prediction: ab|re|la|ta          | CORRECT
+#126 Word: libre           | Expected: lib|re               | Prediction: lib|re               | CORRECT
+#127 Word: libro           | Expected: lib|ro               | Prediction: lib|ro               | CORRECT
+#128 Word: madrasta        | Expected: mad|ras|ta           | Prediction: mad|ras|ta           | CORRECT
+#129 Word: padre           | Expected: pad|re               | Prediction: pad|re               | CORRECT
+#130 Word: orkidya         | Expected: or|kid|ya            | Prediction: or|kid|ya            | CORRECT
+#131 Word: agrabyado       | Expected: ag|rab|ya|do         | Prediction: ag|rab|ya|do         | CORRECT
+#132 Word: agrikultura     | Expected: ag|ri|kul|tu|ra      | Prediction: ag|ri|kul|tu|ra      | CORRECT
+#133 Word: integridad      | Expected: in|teg|ri|dad        | Prediction: in|teg|ri|dad        | CORRECT
+#134 Word: sekreto         | Expected: sek|re|to            | Prediction: sek|re|to            | CORRECT
+#135 Word: sekretarya      | Expected: sek|re|tar|ya        | Prediction: sek|re|tar|ya        | CORRECT
+#136 Word: kopra           | Expected: kop|ra               | Prediction: kop|ra               | CORRECT
+#137 Word: letra           | Expected: let|ra               | Prediction: let|ra               | CORRECT
+#138 Word: litrato         | Expected: lit|ra|to            | Prediction: lit|ra|to            | CORRECT
+#139 Word: litro           | Expected: lit|ro               | Prediction: lit|ro               | CORRECT
+#140 Word: itsa            | Expected: it|sa                | Prediction: it|sa                | CORRECT
+#141 Word: otso            | Expected: ot|so                | Prediction: ot|so                | CORRECT
+#142 Word: otsenta         | Expected: ot|sen|ta            | Prediction: ot|sen|ta            | CORRECT
+#143 Word: atsara          | Expected: at|sa|ra             | Prediction: at|sa|ra             | CORRECT
+#144 Word: atsuwete        | Expected: at|su|we|te          | Prediction: at|su|we|te          | CORRECT
+#145 Word: kutsara         | Expected: kut|sa|ra            | Prediction: kut|sa|ra            | CORRECT
+#146 Word: kutsero         | Expected: kut|se|ro            | Prediction: kut|se|ro            | CORRECT
+#147 Word: kutsilyo        | Expected: kut|sil|yo           | Prediction: kut|sil|yo           | CORRECT
+#148 Word: kutsinta        | Expected: kut|sin|ta           | Prediction: kut|sin|ta           | CORRECT
+#149 Word: kutson          | Expected: kut|son              | Prediction: kut|son              | CORRECT
+#150 Word: titser          | Expected: tit|ser              | Prediction: tit|ser              | CORRECT
+#151 Word: doktrina        | Expected: dokt|ri|na           | Prediction: dokt|ri|na           | CORRECT
+#152 Word: elektrikal      | Expected: e|lekt|ri|kal        | Prediction: e|lekt|ri|kal        | CORRECT
+#153 Word: martsa          | Expected: mart|sa              | Prediction: mart|sa              | CORRECT
+#154 Word: kongkreto       | Expected: kongk|re|to          | Prediction: kongk|re|to          | CORRECT
+#155 Word: iskrin          | Expected: isk|rin              | Prediction: isk|rin              | CORRECT
+#156 Word: eskrima         | Expected: esk|ri|ma            | Prediction: esk|ri|ma            | CORRECT
+#157 Word: estranghero     | Expected: est|rang|he|ro       | Prediction: est|rang|he|ro       | CORRECT
+#158 Word: estratehiya     | Expected: est|ra|te|hi|ya      | Prediction: est|ra|te|hi|ya      | CORRECT
+#159 Word: istroberi       | Expected: ist|ro|be|ri         | Prediction: ist|ro|be|ri         | CORRECT
+#160 Word: istrikto        | Expected: ist|rik|to           | Prediction: ist|rik|to           | CORRECT
+#161 Word: distrito        | Expected: dist|ri|to           | Prediction: dist|ri|to           | CORRECT
+#162 Word: instrumento     | Expected: inst|ru|men|to       | Prediction: inst|ru|men|to       | CORRECT
+#163 Word: orkestra        | Expected: or|kest|ra           | Prediction: or|kest|ra           | CORRECT
+#164 Word: sastre          | Expected: sast|re              | Prediction: sast|re              | CORRECT
+#165 Word: ministro        | Expected: mi|nist|ro           | Prediction: mi|nist|ro           | CORRECT
+#166 Word: rehistro        | Expected: re|hist|ro           | Prediction: re|hist|ro           | CORRECT
+#167 Word: imprenta        | Expected: imp|ren|ta           | Prediction: imp|ren|ta           | CORRECT
+#168 Word: impresyon       | Expected: imp|res|yon          | Prediction: imp|res|yon          | CORRECT
+#169 Word: impraestruktura | Expected: imp|ra|est|ruk|tu|ra | Prediction: imp|ra|est|ruk|tu|ra | CORRECT
+#170 Word: ingrato         | Expected: ing|ra|to            | Prediction: ing|ra|to            | CORRECT
+#171 Word: ingreso         | Expected: ing|re|so            | Prediction: ing|re|so            | CORRECT
+#172 Word: kongreso        | Expected: kong|re|so           | Prediction: kong|re|so           | CORRECT
+#173 Word: kaldero         | Expected: kal|de|ro            | Prediction: kal|de|ro            | CORRECT
